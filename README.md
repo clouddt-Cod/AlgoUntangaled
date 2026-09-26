@@ -16,6 +16,9 @@ There are hundreds of algorithm visualizers on the internet, but **Algo Untangle
 - 🔍 **Deep Inspection:** See beyond the visual bars. Open the Inspector Panel to peek into the Call Stack, track execution Variables, and watch Auxiliary Arrays (like Merge Sort's L and R arrays) populate in real-time.
 - 🏎️ **Side-by-Side Comparison Racing:** Run two algorithms simultaneously in a race. Watch progress bars, operation counts, and theoretical vs. actual complexity charts update live to see which algorithm truly scales better.
 - 🪶 **Absolute Minimalism (Zero Dependencies):** Built entirely from scratch in a single file using pure Vanilla ES6 JavaScript, HTML5, and CSS3. No React, no Vue, no Webpack, no NPM.
+- 
+Every visual and interactive choice here is grounded in peer-reviewed CS-education research and documented, real-world algorithmic bugs — not aesthetic guesswork. It's built with the precision.
+
 
 ## 🚀 Live App
 Check out the live project here: [Algo Untangled !!! ](https://algountangled.netlify.app)
