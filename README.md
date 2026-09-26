@@ -15,8 +15,7 @@ There are hundreds of algorithm visualizers on the internet, but **Algo Untangle
 - 🗣️ **Plain-English Narration:** No confusing jargon. A live narration box explains *exactly* what the algorithm is doing at each step in simple, easy-to-understand English.
 - 🔍 **Deep Inspection:** See beyond the visual bars. Open the Inspector Panel to peek into the Call Stack, track execution Variables, and watch Auxiliary Arrays (like Merge Sort's L and R arrays) populate in real-time.
 - 🏎️ **Side-by-Side Comparison Racing:** Run two algorithms simultaneously in a race. Watch progress bars, operation counts, and theoretical vs. actual complexity charts update live to see which algorithm truly scales better.
-- 🪶 **Absolute Minimalism (Zero Dependencies):** Built entirely from scratch in a single file using pure Vanilla ES6 JavaScript, HTML5, and CSS3. No React, no Vue, no Webpack, no NPM.
--While most visualizers settle for a single view per algorithm, every one here gets two — a default view and a alternate lens for seeing the same algorithm from a completely different angle.
+- 🪶 **Absolute Minimalism (Zero Dependencies):** Built entirely from scratch in a single file using pure Vanilla ES6 JavaScript, HTML5, and CSS3. No React, no Vue, no Webpack, no NPM.While most visualizers settle for a single view per algorithm, every one here gets two — a default view and a alternate lens for seeing the same algorithm from a completely different angle.
 - Every visual and interactive choice here is grounded in peer-reviewed CS-education research and documented, real-world algorithmic bugs — not aesthetic guesswork. It's built with the precision.
 
 
